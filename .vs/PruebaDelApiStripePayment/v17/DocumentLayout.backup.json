@@ -1,0 +1,291 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\Desktop\\PruebaDelApiStripePayment-master\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{422DE4C5-02EA-4AE7-A5B1-5E79E8149A3F}|PruebaDelApiStripePayment.csproj|c:\\users\\usuario\\desktop\\pruebadelapistripepayment-master\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{422DE4C5-02EA-4AE7-A5B1-5E79E8149A3F}|PruebaDelApiStripePayment.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{422DE4C5-02EA-4AE7-A5B1-5E79E8149A3F}|PruebaDelApiStripePayment.csproj|c:\\users\\usuario\\desktop\\pruebadelapistripepayment-master\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{422DE4C5-02EA-4AE7-A5B1-5E79E8149A3F}|PruebaDelApiStripePayment.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{422DE4C5-02EA-4AE7-A5B1-5E79E8149A3F}|PruebaDelApiStripePayment.csproj|c:\\users\\usuario\\desktop\\pruebadelapistripepayment-master\\views\\checkout\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{422DE4C5-02EA-4AE7-A5B1-5E79E8149A3F}|PruebaDelApiStripePayment.csproj|solutionrelative:views\\checkout\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{422DE4C5-02EA-4AE7-A5B1-5E79E8149A3F}|PruebaDelApiStripePayment.csproj|c:\\users\\usuario\\desktop\\pruebadelapistripepayment-master\\models\\productentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{422DE4C5-02EA-4AE7-A5B1-5E79E8149A3F}|PruebaDelApiStripePayment.csproj|solutionrelative:models\\productentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{422DE4C5-02EA-4AE7-A5B1-5E79E8149A3F}|PruebaDelApiStripePayment.csproj|c:\\users\\usuario\\desktop\\pruebadelapistripepayment-master\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{422DE4C5-02EA-4AE7-A5B1-5E79E8149A3F}|PruebaDelApiStripePayment.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{422DE4C5-02EA-4AE7-A5B1-5E79E8149A3F}|PruebaDelApiStripePayment.csproj|c:\\users\\usuario\\desktop\\pruebadelapistripepayment-master\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{422DE4C5-02EA-4AE7-A5B1-5E79E8149A3F}|PruebaDelApiStripePayment.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{422DE4C5-02EA-4AE7-A5B1-5E79E8149A3F}|PruebaDelApiStripePayment.csproj|c:\\users\\usuario\\desktop\\pruebadelapistripepayment-master\\controllers\\checkoutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{422DE4C5-02EA-4AE7-A5B1-5E79E8149A3F}|PruebaDelApiStripePayment.csproj|solutionrelative:controllers\\checkoutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{422DE4C5-02EA-4AE7-A5B1-5E79E8149A3F}|PruebaDelApiStripePayment.csproj|c:\\users\\usuario\\desktop\\pruebadelapistripepayment-master\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{422DE4C5-02EA-4AE7-A5B1-5E79E8149A3F}|PruebaDelApiStripePayment.csproj|solutionrelative:views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{422DE4C5-02EA-4AE7-A5B1-5E79E8149A3F}|PruebaDelApiStripePayment.csproj|c:\\users\\usuario\\desktop\\pruebadelapistripepayment-master\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{422DE4C5-02EA-4AE7-A5B1-5E79E8149A3F}|PruebaDelApiStripePayment.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{422DE4C5-02EA-4AE7-A5B1-5E79E8149A3F}|PruebaDelApiStripePayment.csproj|c:\\users\\usuario\\desktop\\pruebadelapistripepayment-master\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{422DE4C5-02EA-4AE7-A5B1-5E79E8149A3F}|PruebaDelApiStripePayment.csproj|solutionrelative:views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{422DE4C5-02EA-4AE7-A5B1-5E79E8149A3F}|PruebaDelApiStripePayment.csproj|c:\\users\\usuario\\desktop\\pruebadelapistripepayment-master\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{422DE4C5-02EA-4AE7-A5B1-5E79E8149A3F}|PruebaDelApiStripePayment.csproj|solutionrelative:views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{422DE4C5-02EA-4AE7-A5B1-5E79E8149A3F}|PruebaDelApiStripePayment.csproj|c:\\users\\usuario\\desktop\\pruebadelapistripepayment-master\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{422DE4C5-02EA-4AE7-A5B1-5E79E8149A3F}|PruebaDelApiStripePayment.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{422DE4C5-02EA-4AE7-A5B1-5E79E8149A3F}|PruebaDelApiStripePayment.csproj|c:\\users\\usuario\\desktop\\pruebadelapistripepayment-master\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{422DE4C5-02EA-4AE7-A5B1-5E79E8149A3F}|PruebaDelApiStripePayment.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{422DE4C5-02EA-4AE7-A5B1-5E79E8149A3F}|PruebaDelApiStripePayment.csproj|c:\\users\\usuario\\desktop\\pruebadelapistripepayment-master\\views\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{422DE4C5-02EA-4AE7-A5B1-5E79E8149A3F}|PruebaDelApiStripePayment.csproj|solutionrelative:views\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{422DE4C5-02EA-4AE7-A5B1-5E79E8149A3F}|PruebaDelApiStripePayment.csproj|c:\\users\\usuario\\desktop\\pruebadelapistripepayment-master\\views\\success.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{422DE4C5-02EA-4AE7-A5B1-5E79E8149A3F}|PruebaDelApiStripePayment.csproj|solutionrelative:views\\success.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\PruebaDelApiStripePayment-master\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\PruebaDelApiStripePayment-master\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T05:06:14.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CheckOutController.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\PruebaDelApiStripePayment-master\\Controllers\\CheckOutController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CheckOutController.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\PruebaDelApiStripePayment-master\\Controllers\\CheckOutController.cs",
+              "RelativeToolTip": "Controllers\\CheckOutController.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAcwFIAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T04:58:06.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\PruebaDelApiStripePayment-master\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\PruebaDelApiStripePayment-master\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T04:57:59.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\PruebaDelApiStripePayment-master\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\PruebaDelApiStripePayment-master\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T04:57:55.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\PruebaDelApiStripePayment-master\\Models\\ProductEntity.cs",
+              "RelativeDocumentMoniker": "Models\\ProductEntity.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\PruebaDelApiStripePayment-master\\Models\\ProductEntity.cs",
+              "RelativeToolTip": "Models\\ProductEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T04:57:52.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\PruebaDelApiStripePayment-master\\Views\\CheckOut\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\CheckOut\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\PruebaDelApiStripePayment-master\\Views\\CheckOut\\Index.cshtml",
+              "RelativeToolTip": "Views\\CheckOut\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-26T04:57:41.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\PruebaDelApiStripePayment-master\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\PruebaDelApiStripePayment-master\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-26T04:57:36.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\PruebaDelApiStripePayment-master\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\PruebaDelApiStripePayment-master\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-26T04:57:34.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\PruebaDelApiStripePayment-master\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\PruebaDelApiStripePayment-master\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAABtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-26T04:57:05.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\PruebaDelApiStripePayment-master\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\PruebaDelApiStripePayment-master\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-26T04:57:04.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\PruebaDelApiStripePayment-master\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\PruebaDelApiStripePayment-master\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-26T04:57:00.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\PruebaDelApiStripePayment-master\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\PruebaDelApiStripePayment-master\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-26T04:56:56.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\PruebaDelApiStripePayment-master\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\PruebaDelApiStripePayment-master\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-26T04:56:54.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\PruebaDelApiStripePayment-master\\Views\\Login.cshtml",
+              "RelativeDocumentMoniker": "Views\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\PruebaDelApiStripePayment-master\\Views\\Login.cshtml",
+              "RelativeToolTip": "Views\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-26T04:56:33.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Success.cshtml",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\PruebaDelApiStripePayment-master\\Views\\Success.cshtml",
+              "RelativeDocumentMoniker": "Views\\Success.cshtml",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\PruebaDelApiStripePayment-master\\Views\\Success.cshtml",
+              "RelativeToolTip": "Views\\Success.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-26T04:56:12.831Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
